@@ -1,0 +1,6 @@
+D:\TELERIK\C# Part Three OOP\Homeworks\Homewrok_OOP_002_DFClassesTwo\Homewrok_OOP_002_DFClassesTwo\bin\Debug\Homewrok_OOP_002_DFClassesTwo.exe.config
+D:\TELERIK\C# Part Three OOP\Homeworks\Homewrok_OOP_002_DFClassesTwo\Homewrok_OOP_002_DFClassesTwo\bin\Debug\Homewrok_OOP_002_DFClassesTwo.exe
+D:\TELERIK\C# Part Three OOP\Homeworks\Homewrok_OOP_002_DFClassesTwo\Homewrok_OOP_002_DFClassesTwo\bin\Debug\Homewrok_OOP_002_DFClassesTwo.pdb
+D:\TELERIK\C# Part Three OOP\Homeworks\Homewrok_OOP_002_DFClassesTwo\Homewrok_OOP_002_DFClassesTwo\obj\Debug\Homewrok_OOP_002_DFClassesTwo.exe
+D:\TELERIK\C# Part Three OOP\Homeworks\Homewrok_OOP_002_DFClassesTwo\Homewrok_OOP_002_DFClassesTwo\obj\Debug\Homewrok_OOP_002_DFClassesTwo.pdb
+D:\TELERIK\C# Part Three OOP\Homeworks\Homewrok_OOP_002_DFClassesTwo\Homewrok_OOP_002_DFClassesTwo\obj\Debug\HomeworkOOP_DefiningClassesTwo.csprojResolveAssemblyReference.cache
